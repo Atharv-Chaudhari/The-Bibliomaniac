@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/the-bibliomaniac/static/css/main.073c9b0a.css",
+    "main.js": "/the-bibliomaniac/static/js/main.1016bb58.js",
+    "static/js/787.953bfc02.chunk.js": "/the-bibliomaniac/static/js/787.953bfc02.chunk.js",
+    "static/media/logo.svg": "/the-bibliomaniac/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/the-bibliomaniac/index.html",
+    "main.073c9b0a.css.map": "/the-bibliomaniac/static/css/main.073c9b0a.css.map",
+    "main.1016bb58.js.map": "/the-bibliomaniac/static/js/main.1016bb58.js.map",
+    "787.953bfc02.chunk.js.map": "/the-bibliomaniac/static/js/787.953bfc02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1016bb58.js"
+  ]
+}
